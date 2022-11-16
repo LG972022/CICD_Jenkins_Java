@@ -3,8 +3,6 @@ package com.agile.calculator;
 import com.agile.utils.Utils;
 
 public class Calculator {
-	
-	//Calculator Class
 
 	public int divide(String n1) {
 		int result = -9999;		
